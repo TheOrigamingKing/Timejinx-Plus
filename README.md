@@ -39,16 +39,16 @@ Now that you're in the TimeTrivia file, Here's what you're going to want to do.
 
 **Backup the files named Credits.html, Localization.json, settings.json, and TimeTrivia.swf. Do the same process as what you did for the backing up of the Localization of the Picker file**
 
-Yes I know the folder is called TimeTrivia, but if you scroll to the bottom there will be a file called TimeTrivia. Back that up.
+Yes I know the folder is called TimeTrivia, but if you scroll to the bottom there will be a file called TimeTrivia.swf. Back that up.
 
 Now, in the "TimeTrivia Files" of the download, add the "Credits.html, Localization.json, settings.json, TimeTrivia.swf". Don't change their names and just add them to the TimeTrivia folder.
 
-Now that that's done, here's what you need to do. Go to the "content" folder of the release build. **Before clicking "en", take the manifest and add it to TimeTrivia folder of the JPP10. Member to backup the original manifest as well, in the same way you backed up your credits and Localization etc.** 
+Now that that's done, here's what you need to do. Go to the "content" folder of the release build. **Before clicking "en", take the manifest and add it to TimeTrivia folder of the JPP10. Remember to backup the original manifest as well, in the same way you backed up your credits and Localization etc.** 
 
 After adding the manifest, click on "en" in the release build folder. Do the same in your "content" folder of the JPP10. When you open the "en" in the release build folder, you should see a bunch of JET files that all have "Plus" at the end of them. **Add these to the "en" folder of your "content" folder in the JPP10. Additionally, replace the JET files of "TimeTriviaGeoImages" and "TimeTriviaImpostorImages" in the "en" folder of the JPP10 with the "TimeTriviaGeoImages" and "TimeTriviaImpostorImages" from the release build folder. And that's all the JET folders moved!**
 
 Also, *in the "en" folder of the release build*, you should see three folders named "TimeTriviaImpostorImages", "TimeTriviaHop"  & "TimeTriviaGeoImages". **Take the content of these folders and add them their respective folders in the JPP10 version of the "en" folder.** 
 
-Now for the last step. *Go to the release build "TimeTrivia Files". You should see a "swf" folder there with 4 flash movies in it.* These have the mod-related images that are not content based. Go to the swf of the TimeTrivia in JPP10 (you do this by opening up "TimeTrivia" and going to "swf". **Completely replace the "timetrivia_postgame, timetrivia_menu, timetrivia_lobby & timetrivia_intro" files with the respective "timetrivia_postgame, timetrivia_menu, timetrivia_lobby & timetrivia_intro" from the Timejinx+ Release Build folder. And that's all the folders added!**
+Now for the last step. *Go to the release build "TimeTrivia Files". You should see a "swf" folder there with 4 flash movies in it.* These have the mod-related images that are not content based. Go to the swf of the TimeTrivia in JPP10 (you do this by opening up "TimeTrivia" and going to "swf". **Replace the "timetrivia_postgame, timetrivia_menu, timetrivia_lobby & timetrivia_intro" files with the respective "timetrivia_postgame, timetrivia_menu, timetrivia_lobby & timetrivia_intro" from the Timejinx+ Release Build folder. Make sure to back up the JPP10 swfs by renaming them as well.** And that's all the folders added!
 
 And NOW you're done! Thanks for downloading and happy installing!
