@@ -4,7 +4,7 @@ Introducing Timejinx+! This is a mod for Timejinx from The Jackbox Party Pack 10
 **DISCLAIMER:**
 This mod is only available in the English translation. There is no translation for the plus questions. Sorry :(
 
-Instructions:
+**Instructions:**
 Hello! If you're reading this that means you're downloading Timejinx+. These instructions will teach you how to safely add all the files without breaking your game. First off, let's figure out how to even find where to put files by first locating where files are
 
 **How to locate local files**
